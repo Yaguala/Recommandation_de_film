@@ -1,6 +1,6 @@
 <details>
 <summary> Système de recommandation de films -Fr (Click to expand)</summary>
-  # Système de recommandation de films
+  ## Système de recommandation de films
   
   ## Présentation
   Ce projet est une application web interactive conçue pour recommander des films en fonction des préférences des utilisateurs. Il a été développé dans le cadre d’une formation en Data Analyst.
@@ -73,7 +73,7 @@
 </details>
 <details>
 <summary> Movie Recommendation System -Eng (Click to expand)</summary>
-  # Movie Recommendation System
+  ## Movie Recommendation System
   
   ## Overview
   This project is an interactive web application designed to recommend movies based on user preferences. It was developed as part of a Data Analyst training program.
@@ -143,4 +143,4 @@
   - Enhanced UI/UX with frontend frameworks  
   - Real-time data updates via APIs  
   - Recommendation scoring system
-<details> 
+</details> 
