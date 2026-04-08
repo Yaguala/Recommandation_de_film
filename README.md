@@ -72,9 +72,11 @@
   - Mise à jour des données en temps réel via APIs  
   - Système de scoring des recommandations
 </details>
+
 <details>
 <summary> Movie Recommendation System -Eng (Click to expand)</summary>
-  ## Movie Recommendation System
+  
+  # Movie Recommendation System
   
   ## Overview
   This project is an interactive web application designed to recommend movies based on user preferences. It was developed as part of a Data Analyst training program.
