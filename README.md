@@ -53,7 +53,7 @@
   ## Application
   
   Voir l’application :  
-  https://projet2-fcxec4iqdogknwxmwsamtt.streamlit.app/embeding
+  https://filmrecommandation.streamlit.app
   
 </details>
 
@@ -112,6 +112,6 @@
   ## Application
   
   View on App:  
-  https://projet2-fcxec4iqdogknwxmwsamtt.streamlit.app/embeding
+  https://filmrecommandation.streamlit.app
 
 </details> 
