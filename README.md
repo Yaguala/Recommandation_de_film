@@ -70,7 +70,7 @@
   - Optimisation de l’interface utilisateur (UI/UX)  
   - Mise à jour des données en temps réel via APIs  
   - Système de scoring des recommandations
-<details>
+</details>
 <details>
 <summary> Movie Recommendation System -Eng (Click to expand)</summary>
   # Movie Recommendation System
