@@ -55,22 +55,6 @@
   Voir l’application :  
   https://projet2-fcxec4iqdogknwxmwsamtt.streamlit.app/embeding
   
-  ---
-  
-  ## GitHub
-  
-  Voir sur GitHub :  
-  https://github.com/Yaguala/Project-2
-  
-  ---
-  
-  ## Axes d’amélioration
-  
-  - Authentification et gestion des profils utilisateurs  
-  - Amélioration des algorithmes de recommandation  
-  - Optimisation de l’interface utilisateur (UI/UX)  
-  - Mise à jour des données en temps réel via APIs  
-  - Système de scoring des recommandations
 </details>
 
 <details>
@@ -129,21 +113,5 @@
   
   View on App:  
   https://projet2-fcxec4iqdogknwxmwsamtt.streamlit.app/embeding
-  
-  ---
-  
-  ## GitHub
-  
-  View on GitHub:  
-  https://github.com/Yaguala/Project-2
-  
-  ---
-  
-  ## Future Improvements
-  
-  - User authentication and profile management  
-  - Improved recommendation algorithms  
-  - Enhanced UI/UX with frontend frameworks  
-  - Real-time data updates via APIs  
-  - Recommendation scoring system
+
 </details> 
