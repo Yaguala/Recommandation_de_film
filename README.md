@@ -1,7 +1,7 @@
 <details>
 <summary> Système de recommandation de films -Fr (Click to expand)</summary>
   
-  ## Système de recommandation de films
+  # Système de recommandation de films
   
   ## Présentation
   Ce projet est une application web interactive conçue pour recommander des films en fonction des préférences des utilisateurs. Il a été développé dans le cadre d’une formation en Data Analyst.
